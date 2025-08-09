@@ -4,3 +4,4 @@ lib/
 share/
 pyvenv.cfg
 _marino_
+.DS_Store
